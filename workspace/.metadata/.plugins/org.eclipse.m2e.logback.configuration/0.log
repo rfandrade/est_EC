@@ -1,0 +1,288 @@
+2017-03-17 08:47:27,980 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.rfa:PrimeiroProjetoPrimeFaces:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\pom.xml.
+2017-03-17 08:47:27,980 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.rfa:PrimeiroProjetoPrimeFaces:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\pom.xml.
+2017-03-17 08:47:29,321 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 08:47:29,321 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\src\main\resources
+2017-03-17 08:47:29,337 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 08:47:29,337 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\src\test\resources
+2017-03-17 08:47:31,380 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.rfa:PrimeiroProjetoPrimeFaces:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\pom.xml.
+2017-03-17 08:47:32,082 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 08:47:32,082 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\src\main\resources
+2017-03-17 08:47:32,082 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 08:47:32,082 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\src\test\resources
+2017-03-17 08:47:51,270 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.rfa:OlaMaven:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\pom.xml.
+2017-03-17 08:47:52,035 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 08:47:52,035 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\src\main\resources
+2017-03-17 08:47:52,035 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 08:47:52,035 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\src\test\resources
+2017-03-17 08:47:52,924 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.rfa:OlaMaven:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\pom.xml.
+2017-03-17 08:47:53,486 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 08:47:53,486 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\src\main\resources
+2017-03-17 08:47:53,486 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 08:47:53,486 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\src\test\resources
+2017-03-17 13:06:08,507 [Worker-109] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-17 13:06:08,847 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/3.0/maven-compiler-plugin-3.0.jar
+2017-03-17 13:06:08,867 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/3.0/maven-compiler-plugin-3.0.jar
+2017-03-17 13:06:09,167 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/3.0/maven-compiler-plugin-3.0.pom
+2017-03-17 13:06:09,227 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/apache/maven/plugins/maven-compiler-plugin/3.0/maven-compiler-plugin-3.0.pom
+2017-03-17 13:06:10,157 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/apache/maven/shared/maven-shared-incremental/1.0/maven-shared-incremental-1.0.pom
+2017-03-17 13:06:10,197 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/apache/maven/shared/maven-shared-incremental/1.0/maven-shared-incremental-1.0.pom
+2017-03-17 13:06:10,637 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-api/2.0/plexus-compiler-api-2.0.pom
+2017-03-17 13:06:10,657 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-api/2.0/plexus-compiler-api-2.0.pom
+2017-03-17 13:06:10,717 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler/2.0/plexus-compiler-2.0.pom
+2017-03-17 13:06:10,737 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler/2.0/plexus-compiler-2.0.pom
+2017-03-17 13:06:10,897 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom
+2017-03-17 13:06:10,927 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom
+2017-03-17 13:06:11,077 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/2.0/plexus-compiler-manager-2.0.pom
+2017-03-17 13:06:11,127 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/2.0/plexus-compiler-manager-2.0.pom
+2017-03-17 13:06:11,437 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/2.0/plexus-compiler-javac-2.0.pom
+2017-03-17 13:06:11,497 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/2.0/plexus-compiler-javac-2.0.pom
+2017-03-17 13:06:11,647 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compilers/2.0/plexus-compilers-2.0.pom
+2017-03-17 13:06:11,687 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compilers/2.0/plexus-compilers-2.0.pom
+2017-03-17 13:06:12,047 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/apache/maven/shared/maven-shared-incremental/1.0/maven-shared-incremental-1.0.jar
+2017-03-17 13:06:12,067 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/apache/maven/shared/maven-shared-incremental/1.0/maven-shared-incremental-1.0.jar
+2017-03-17 13:06:12,187 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-api/2.0/plexus-compiler-api-2.0.jar
+2017-03-17 13:06:12,207 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-api/2.0/plexus-compiler-api-2.0.jar
+2017-03-17 13:06:12,307 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/2.0/plexus-compiler-manager-2.0.jar
+2017-03-17 13:06:12,327 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-manager/2.0/plexus-compiler-manager-2.0.jar
+2017-03-17 13:06:12,457 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/2.0/plexus-compiler-javac-2.0.jar
+2017-03-17 13:06:12,487 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/codehaus/plexus/plexus-compiler-javac/2.0/plexus-compiler-javac-2.0.jar
+2017-03-17 13:06:12,867 [Worker-109] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:InputOutputButton:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\pom.xml.
+2017-03-17 13:06:13,427 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/glassfish/javax.faces/2.1.17/javax.faces-2.1.17.pom
+2017-03-17 13:06:13,477 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/glassfish/javax.faces/2.1.17/javax.faces-2.1.17.pom
+2017-03-17 13:06:14,247 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/primefaces/primefaces/3.5/primefaces-3.5.pom
+2017-03-17 13:06:14,267 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 13:06:47,559 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://10.15.220.185:8181/nexus/content/groups/public/org/glassfish/javax.faces/2.1.17/javax.faces-2.1.17.jar
+2017-03-17 13:06:47,789 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/glassfish/javax.faces/2.1.17/javax.faces-2.1.17.jar
+2017-03-17 13:06:48,339 [Worker-109] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.15.220.185:8181/nexus/content/groups/public/org/primefaces/primefaces/3.5/primefaces-3.5.jar
+2017-03-17 13:06:48,899 [Worker-109] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InputOutputButton/src/main/java
+2017-03-17 13:06:48,899 [Worker-109] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InputOutputButton/src/test/java
+2017-03-17 13:06:49,955 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 13:06:49,985 [Worker-109] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 41 sec
+2017-03-17 13:06:50,165 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 13:06:50,165 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:06:50,165 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 13:06:50,165 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:06:50,165 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 13:06:55,063 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:06:55,063 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 13:06:55,063 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:06:55,063 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 13:07:26,121 [Worker-111] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-17 13:07:26,491 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:InputOutputButton:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\pom.xml.
+2017-03-17 13:07:26,491 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 13:07:26,511 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 13:07:26,651 [Worker-111] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InputOutputButton/src/main/java
+2017-03-17 13:07:26,651 [Worker-111] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InputOutputButton/src/test/java
+2017-03-17 13:07:26,741 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 13:07:26,801 [Worker-111] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for InputOutputButton
+2017-03-17 13:07:26,811 [Worker-111] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-17 13:07:26,951 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 13:07:26,971 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:07:26,971 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 13:07:26,971 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:07:26,971 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 13:07:26,971 [Worker-110] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of InputOutputButton
+2017-03-17 13:07:26,981 [Worker-110] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for InputOutputButton
+2017-03-17 13:07:26,981 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:08:01,147 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:InputOutputButton:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\pom.xml.
+2017-03-17 13:08:01,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:08:01,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 13:08:01,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:08:01,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 13:08:01,671 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of InputOutputButton
+2017-03-17 13:08:01,671 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for InputOutputButton
+2017-03-17 13:08:01,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:08:03,207 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:08:03,207 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 13:08:03,207 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:08:03,207 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 13:11:44,593 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:11:44,593 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 13:11:44,593 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:11:44,593 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 13:15:35,347 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:15:35,347 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 13:15:35,367 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:15:35,367 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 13:19:24,140 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:19:24,140 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 13:19:24,140 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 13:19:24,140 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:11:24,974 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:11:24,974 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:11:24,974 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:11:24,974 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:12:46,470 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:12:46,470 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:12:46,470 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:12:46,470 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:13:16,870 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:13:16,870 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:13:16,870 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:13:16,870 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:13:43,680 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:13:43,680 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:13:43,680 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:13:43,680 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:20:29,476 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:20:29,486 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:20:29,486 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:20:29,486 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:21:26,688 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:21:26,698 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:21:26,698 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:21:26,698 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:22:51,006 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:22:51,006 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:22:51,006 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:22:51,006 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:24:33,605 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:24:33,605 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:24:33,605 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:24:33,605 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:26:12,163 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:26:12,163 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:26:12,163 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:26:12,163 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:29:45,515 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:29:45,515 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:29:45,515 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:29:45,515 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:31:41,585 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:31:41,585 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:31:41,585 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:31:41,585 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:32:45,175 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:32:45,175 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:32:45,175 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:32:45,175 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:34:23,634 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:34:23,634 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:34:23,634 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:34:23,634 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:34:54,446 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:34:54,456 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:34:54,456 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:34:54,456 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:35:17,549 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:35:17,549 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:35:17,549 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:35:17,549 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:38:16,839 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:38:16,839 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:38:16,839 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:38:16,839 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:38:16,839 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:38:16,839 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\src\main\resources
+2017-03-17 14:38:16,839 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:38:16,839 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\src\test\resources
+2017-03-17 14:38:16,849 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:38:16,849 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\src\main\resources
+2017-03-17 14:38:16,849 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:38:16,849 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\src\test\resources
+2017-03-17 14:40:14,999 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:40:14,999 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:40:14,999 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:40:14,999 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:42:36,379 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:42:36,379 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:42:36,379 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:42:36,379 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:43:15,241 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:43:15,241 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:43:15,241 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:43:15,241 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:44:59,133 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-17 14:45:12,573 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-03-17 14:45:14,393 [Worker-154] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton
+2017-03-17 14:45:14,393 [Worker-154] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2017-03-17 14:45:51,970 [Worker-154] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-17 14:45:52,320 [Worker-154] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:InputOutputButton:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\pom.xml.
+2017-03-17 14:45:52,790 [Worker-154] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InputOutputButton/src/main/java
+2017-03-17 14:45:52,790 [Worker-154] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InputOutputButton/src/test/java
+2017-03-17 14:45:52,950 [Worker-154] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for InputOutputButton
+2017-03-17 14:45:52,950 [Worker-154] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-17 14:45:53,270 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:45:53,270 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:45:53,280 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:45:53,280 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:45:53,280 [Worker-156] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of InputOutputButton
+2017-03-17 14:45:53,280 [Worker-156] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for InputOutputButton
+2017-03-17 14:45:53,280 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:34,766 [Worker-157] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for InputOutputButton
+2017-03-17 14:46:34,776 [Worker-157] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OlaMaven
+2017-03-17 14:46:34,786 [Worker-157] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PrimeiroProjetoPrimeFaces
+2017-03-17 14:46:34,946 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:34,946 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:46:34,946 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:34,946 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 14:46:34,946 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of InputOutputButton
+2017-03-17 14:46:34,946 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for InputOutputButton
+2017-03-17 14:46:34,956 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:35,136 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:35,136 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\src\main\resources
+2017-03-17 14:46:35,136 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:35,136 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven\src\test\resources
+2017-03-17 14:46:35,136 [Worker-157] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OlaMaven
+2017-03-17 14:46:35,136 [Worker-157] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OlaMaven
+2017-03-17 14:46:35,146 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:35,566 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:35,566 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\src\main\resources
+2017-03-17 14:46:35,566 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:46:35,566 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\est_EC\workspace\PrimeiroProjetoPrimeFaces\src\test\resources
+2017-03-17 14:46:35,566 [Worker-157] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of PrimeiroProjetoPrimeFaces
+2017-03-17 14:46:35,566 [Worker-157] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for PrimeiroProjetoPrimeFaces
+2017-03-17 14:46:35,576 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:49:17,368 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:49:17,368 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\main\resources
+2017-03-17 14:49:17,369 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 14:49:17,369 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton\src\test\resources
+2017-03-17 16:09:22,398 [Worker-190] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-17 16:09:22,728 [Worker-190] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:AjaxRenderizacaoParcial:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\pom.xml.
+2017-03-17 16:09:22,728 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 16:09:22,970 [Worker-190] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AjaxRenderizacaoParcial/src/main/java
+2017-03-17 16:09:22,980 [Worker-190] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AjaxRenderizacaoParcial/src/test/java
+2017-03-17 16:09:23,496 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 16:09:23,516 [Worker-190] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-03-17 16:09:23,668 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.primefaces:primefaces:jar:3.5 is missing, no dependency information available
+2017-03-17 16:09:23,669 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:23,669 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\main\resources
+2017-03-17 16:09:23,669 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:23,669 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\test\resources
+2017-03-17 16:09:28,910 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:28,910 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\main\resources
+2017-03-17 16:09:28,910 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:28,910 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\test\resources
+2017-03-17 16:09:50,380 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:50,380 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\main\resources
+2017-03-17 16:09:50,380 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:50,380 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\test\resources
+2017-03-17 16:09:52,442 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:52,452 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\main\resources
+2017-03-17 16:09:52,452 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:09:52,452 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\test\resources
+2017-03-17 16:10:11,816 [Worker-190] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:AjaxRenderizacaoParcial:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\pom.xml.
+2017-03-17 16:10:11,966 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:10:11,966 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\main\resources
+2017-03-17 16:10:11,966 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:10:11,966 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\test\resources
+2017-03-17 16:10:11,966 [Worker-190] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AjaxRenderizacaoParcial
+2017-03-17 16:10:11,966 [Worker-190] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AjaxRenderizacaoParcial
+2017-03-17 16:10:11,966 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:10:13,208 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:10:13,208 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\main\resources
+2017-03-17 16:10:13,208 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:10:13,208 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\test\resources
+2017-03-17 16:10:18,608 [Worker-191] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-17 16:10:18,915 [Worker-191] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:AjaxRenderizacaoParcial:1.0.0-SNAPSHOT @ C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\pom.xml.
+2017-03-17 16:10:19,019 [Worker-191] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AjaxRenderizacaoParcial/src/main/java
+2017-03-17 16:10:19,019 [Worker-191] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AjaxRenderizacaoParcial/src/test/java
+2017-03-17 16:10:19,167 [Worker-191] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AjaxRenderizacaoParcial
+2017-03-17 16:10:19,172 [Worker-191] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-17 16:10:19,374 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:10:19,374 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\main\resources
+2017-03-17 16:10:19,374 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 16:10:19,374 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial\src\test\resources
+2017-03-17 16:10:19,374 [Worker-191] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AjaxRenderizacaoParcial
+2017-03-17 16:10:19,374 [Worker-191] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AjaxRenderizacaoParcial
+2017-03-17 16:10:19,374 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
