@@ -11,15 +11,25 @@
 	</properties>
 
 	<dependencies>
+
+		<!-- PrimeFaces (biblioteca de componentes) -->
 		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
-			<version>3.0.1</version>
-			<scope>provided</scope>
+			<groupId>org.primefaces</groupId>
+			<artifactId>primefaces</artifactId>
+			<version>6.0</version>
+		</dependency>
+
+		<!-- Mojarra (implementacao do JSF -->
+		<dependency>
+			<groupId>org.glassfish</groupId>
+			<artifactId>javax.faces</artifactId>
+			<version>2.2.8</version>
+			<scope>compile</scope>
 		</dependency>
 	</dependencies>
 
 	<build>
+		<finalName>PedidoVenda</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -30,7 +40,20 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
+
 		</plugins>
+
 	</build>
+
+	<repositories>
+		<!-- PrimeFaces (para versoes 3.5 e posteriores -->
+		<repository>
+			<id>prime-repo</id>
+			<name>PrimeFaces Maven Repository</name>
+			<url>http://repository.primefaces.org</url>
+			<layout>default</layout>
+		</repository>
+
+	</repositories>
 
 </project>
