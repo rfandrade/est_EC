@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Estudos\Java\Algaworks\curso-javaee-primefaces-master"/>
+		<item value="D:\Estudos\Java\est_EC\workspace"/>
 		<item value="C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\AjaxRenderizacaoParcial"/>
 		<item value="C:\robson\part\Estudos\Java\Algaworks\curso-javaee-primefaces-master\InputOutputButton"/>
 		<item value="C:\robson\part\Estudos\Java\est_EC\workspace\OlaMaven"/>
