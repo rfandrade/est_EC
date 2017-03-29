@@ -9,6 +9,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Dialog"/>
+			<item value="MessagesGrowl"/>
 			<item value="Financeiro"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -20,6 +22,7 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
 			<item value="1.0.0-SNAPSHOT"/>
 		</list>
 	</section>
